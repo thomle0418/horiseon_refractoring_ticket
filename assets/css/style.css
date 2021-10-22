@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/*End of header section*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -84,15 +84,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
