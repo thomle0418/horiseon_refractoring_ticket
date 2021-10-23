@@ -4,3 +4,4 @@ For this assignment I refractored the HTML and CSS files for Horiseon Social Sol
 
 https://thomle0418.github.io/horiseon_refractoring_ticket/
 
+![Horiseon](https://user-images.githubusercontent.com/91095934/138541883-fc1116a4-7442-41c1-8e6e-6f8cc227bfce.png)
